@@ -30,11 +30,11 @@ def convert_to_japanese(hour, minute):
     minute_numbers = {
         0: "",
         5: "gofun",
-        10: "jyuppun",
-        15: "jyuugofun",
+        10: "juppun",
+        15: "juugofun",
         20: "nijuppun",
         30: "han",
-        45: "yonjyuufun"
+        45: "yonjuugofun"
     }
 
     if hour == 0:
