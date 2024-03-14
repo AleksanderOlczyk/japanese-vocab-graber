@@ -1,123 +1,123 @@
 #separator:tab
 #html:true
 #tags column:3
-00:00	gozen juuniji desu
-00:15	gozen juuniji jyuugofunfun desu
-00:20	gozen juuniji nijuppunfun desu
-00:30	gozen juuniji hanfun desu
-00:45	gozen juuniji yonjyuufunfun desu
-01:00	gozen ichiji desu
-01:15	gozen ichiji jyuugofunfun desu
-01:20	gozen ichiji nijuppunfun desu
-01:30	gozen ichiji hanfun desu
-01:45	gozen ichiji yonjyuufunfun desu
-02:00	gozen niji desu
-02:15	gozen niji jyuugofunfun desu
-02:20	gozen niji nijuppunfun desu
-02:30	gozen niji hanfun desu
-02:45	gozen niji yonjyuufunfun desu
-03:00	gozen sanji desu
-03:15	gozen sanji jyuugofunfun desu
-03:20	gozen sanji nijuppunfun desu
-03:30	gozen sanji hanfun desu
-03:45	gozen sanji yonjyuufunfun desu
-04:00	gozen yoji desu
-04:15	gozen yoji jyuugofunfun desu
-04:20	gozen yoji nijuppunfun desu
-04:30	gozen yoji hanfun desu
-04:45	gozen yoji yonjyuufunfun desu
-05:00	gozen goji desu
-05:15	gozen goji jyuugofunfun desu
-05:20	gozen goji nijuppunfun desu
-05:30	gozen goji hanfun desu
-05:45	gozen goji yonjyuufunfun desu
-06:00	gozen rokuji desu
-06:15	gozen rokuji jyuugofunfun desu
-06:20	gozen rokuji nijuppunfun desu
-06:30	gozen rokuji hanfun desu
-06:45	gozen rokuji yonjyuufunfun desu
-07:00	gozen shichiji desu
-07:15	gozen shichiji jyuugofunfun desu
-07:20	gozen shichiji nijuppunfun desu
-07:30	gozen shichiji hanfun desu
-07:45	gozen shichiji yonjyuufunfun desu
-08:00	gozen hachiji desu
-08:15	gozen hachiji jyuugofunfun desu
-08:20	gozen hachiji nijuppunfun desu
-08:30	gozen hachiji hanfun desu
-08:45	gozen hachiji yonjyuufunfun desu
-09:00	gozen kuji desu
-09:15	gozen kuji jyuugofunfun desu
-09:20	gozen kuji nijuppunfun desu
-09:30	gozen kuji hanfun desu
-09:45	gozen kuji yonjyuufunfun desu
-10:00	gozen juuji desu
-10:15	gozen juuji jyuugofunfun desu
-10:20	gozen juuji nijuppunfun desu
-10:30	gozen juuji hanfun desu
-10:45	gozen juuji yonjyuufunfun desu
-11:00	gozen juuichiji desu
-11:15	gozen juuichiji jyuugofunfun desu
-11:20	gozen juuichiji nijuppunfun desu
-11:30	gozen juuichiji hanfun desu
-11:45	gozen juuichiji yonjyuufunfun desu
-12:00	gozen juuniji desu
-12:15	gozen juuniji jyuugofunfun desu
-12:20	gozen juuniji nijuppunfun desu
-12:30	gozen juuniji hanfun desu
-12:45	gozen juuniji yonjyuufunfun desu
-13:00	gozen ichiji desu
-13:15	gozen ichiji jyuugofunfun desu
-13:20	gozen ichiji nijuppunfun desu
-13:30	gozen ichiji hanfun desu
-13:45	gozen ichiji yonjyuufunfun desu
-14:00	gozen niji desu
-14:15	gozen niji jyuugofunfun desu
-14:20	gozen niji nijuppunfun desu
-14:30	gozen niji hanfun desu
-14:45	gozen niji yonjyuufunfun desu
-15:00	gozen sanji desu
-15:15	gozen sanji jyuugofunfun desu
-15:20	gozen sanji nijuppunfun desu
-15:30	gozen sanji hanfun desu
-15:45	gozen sanji yonjyuufunfun desu
-16:00	gozen yoji desu
-16:15	gozen yoji jyuugofunfun desu
-16:20	gozen yoji nijuppunfun desu
-16:30	gozen yoji hanfun desu
-16:45	gozen yoji yonjyuufunfun desu
-17:00	gozen goji desu
-17:15	gozen goji jyuugofunfun desu
-17:20	gozen goji nijuppunfun desu
-17:30	gozen goji hanfun desu
-17:45	gozen goji yonjyuufunfun desu
-18:00	gozen rokuji desu
-18:15	gozen rokuji jyuugofunfun desu
-18:20	gozen rokuji nijuppunfun desu
-18:30	gozen rokuji hanfun desu
-18:45	gozen rokuji yonjyuufunfun desu
-19:00	gozen shichiji desu
-19:15	gozen shichiji jyuugofunfun desu
-19:20	gozen shichiji nijuppunfun desu
-19:30	gozen shichiji hanfun desu
-19:45	gozen shichiji yonjyuufunfun desu
-20:00	gozen hachiji desu
-20:15	gozen hachiji jyuugofunfun desu
-20:20	gozen hachiji nijuppunfun desu
-20:30	gozen hachiji hanfun desu
-20:45	gozen hachiji yonjyuufunfun desu
-21:00	gozen kuji desu
-21:15	gozen kuji jyuugofunfun desu
-21:20	gozen kuji nijuppunfun desu
-21:30	gozen kuji hanfun desu
-21:45	gozen kuji yonjyuufunfun desu
-22:00	gozen juuji desu
-22:15	gozen juuji jyuugofunfun desu
-22:20	gozen juuji nijuppunfun desu
-22:30	gozen juuji hanfun desu
-22:45	gozen juuji yonjyuufunfun desu
-23:00	gozen juuichiji desu
-23:15	gozen juuichiji jyuugofunfun desu
-23:20	gozen juuichiji nijuppunfun desu
-23:30	gozen juuichiji hanfun desu
-23:45	gozen juuichiji yonjyuufunfun desu
+00:00	gozen juuniji  desu
+00:15	gozen juuniji jyuugofun desu
+00:20	gozen juuniji nijuppun desu
+00:30	gozen juuniji han desu
+00:45	gozen juuniji yonjyuufun desu
+01:00	gozen ichiji  desu
+01:15	gozen ichiji jyuugofun desu
+01:20	gozen ichiji nijuppun desu
+01:30	gozen ichiji han desu
+01:45	gozen ichiji yonjyuufun desu
+02:00	gozen niji  desu
+02:15	gozen niji jyuugofun desu
+02:20	gozen niji nijuppun desu
+02:30	gozen niji han desu
+02:45	gozen niji yonjyuufun desu
+03:00	gozen sanji  desu
+03:15	gozen sanji jyuugofun desu
+03:20	gozen sanji nijuppun desu
+03:30	gozen sanji han desu
+03:45	gozen sanji yonjyuufun desu
+04:00	gozen yoji  desu
+04:15	gozen yoji jyuugofun desu
+04:20	gozen yoji nijuppun desu
+04:30	gozen yoji han desu
+04:45	gozen yoji yonjyuufun desu
+05:00	gozen goji  desu
+05:15	gozen goji jyuugofun desu
+05:20	gozen goji nijuppun desu
+05:30	gozen goji han desu
+05:45	gozen goji yonjyuufun desu
+06:00	gozen rokuji  desu
+06:15	gozen rokuji jyuugofun desu
+06:20	gozen rokuji nijuppun desu
+06:30	gozen rokuji han desu
+06:45	gozen rokuji yonjyuufun desu
+07:00	gozen shichiji  desu
+07:15	gozen shichiji jyuugofun desu
+07:20	gozen shichiji nijuppun desu
+07:30	gozen shichiji han desu
+07:45	gozen shichiji yonjyuufun desu
+08:00	gozen hachiji  desu
+08:15	gozen hachiji jyuugofun desu
+08:20	gozen hachiji nijuppun desu
+08:30	gozen hachiji han desu
+08:45	gozen hachiji yonjyuufun desu
+09:00	gozen kuji  desu
+09:15	gozen kuji jyuugofun desu
+09:20	gozen kuji nijuppun desu
+09:30	gozen kuji han desu
+09:45	gozen kuji yonjyuufun desu
+10:00	gozen juuji  desu
+10:15	gozen juuji jyuugofun desu
+10:20	gozen juuji nijuppun desu
+10:30	gozen juuji han desu
+10:45	gozen juuji yonjyuufun desu
+11:00	gozen juuichiji  desu
+11:15	gozen juuichiji jyuugofun desu
+11:20	gozen juuichiji nijuppun desu
+11:30	gozen juuichiji han desu
+11:45	gozen juuichiji yonjyuufun desu
+12:00	gozen juuniji  desu
+12:15	gozen juuniji jyuugofun desu
+12:20	gozen juuniji nijuppun desu
+12:30	gozen juuniji han desu
+12:45	gozen juuniji yonjyuufun desu
+13:00	gozen ichiji  desu
+13:15	gozen ichiji jyuugofun desu
+13:20	gozen ichiji nijuppun desu
+13:30	gozen ichiji han desu
+13:45	gozen ichiji yonjyuufun desu
+14:00	gozen niji  desu
+14:15	gozen niji jyuugofun desu
+14:20	gozen niji nijuppun desu
+14:30	gozen niji han desu
+14:45	gozen niji yonjyuufun desu
+15:00	gozen sanji  desu
+15:15	gozen sanji jyuugofun desu
+15:20	gozen sanji nijuppun desu
+15:30	gozen sanji han desu
+15:45	gozen sanji yonjyuufun desu
+16:00	gozen yoji  desu
+16:15	gozen yoji jyuugofun desu
+16:20	gozen yoji nijuppun desu
+16:30	gozen yoji han desu
+16:45	gozen yoji yonjyuufun desu
+17:00	gozen goji  desu
+17:15	gozen goji jyuugofun desu
+17:20	gozen goji nijuppun desu
+17:30	gozen goji han desu
+17:45	gozen goji yonjyuufun desu
+18:00	gozen rokuji  desu
+18:15	gozen rokuji jyuugofun desu
+18:20	gozen rokuji nijuppun desu
+18:30	gozen rokuji han desu
+18:45	gozen rokuji yonjyuufun desu
+19:00	gozen shichiji  desu
+19:15	gozen shichiji jyuugofun desu
+19:20	gozen shichiji nijuppun desu
+19:30	gozen shichiji han desu
+19:45	gozen shichiji yonjyuufun desu
+20:00	gozen hachiji  desu
+20:15	gozen hachiji jyuugofun desu
+20:20	gozen hachiji nijuppun desu
+20:30	gozen hachiji han desu
+20:45	gozen hachiji yonjyuufun desu
+21:00	gozen kuji  desu
+21:15	gozen kuji jyuugofun desu
+21:20	gozen kuji nijuppun desu
+21:30	gozen kuji han desu
+21:45	gozen kuji yonjyuufun desu
+22:00	gozen juuji  desu
+22:15	gozen juuji jyuugofun desu
+22:20	gozen juuji nijuppun desu
+22:30	gozen juuji han desu
+22:45	gozen juuji yonjyuufun desu
+23:00	gozen juuichiji  desu
+23:15	gozen juuichiji jyuugofun desu
+23:20	gozen juuichiji nijuppun desu
+23:30	gozen juuichiji han desu
+23:45	gozen juuichiji yonjyuufun desu

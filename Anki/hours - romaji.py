@@ -46,9 +46,9 @@ def convert_to_japanese(hour, minute):
     minute_japanese = minute_numbers[minute]
 
     if hour < 13:
-        return f"gozen {hour_japanese}{' ' + minute_japanese + 'fun' if minute != 0 else ''} desu"
+        return f"gozen {hour_japanese}{' ' + minute_japanese} desu"
     else:
-        return f"gogo {hour_japanese}{' ' + minute_japanese + 'fun' if minute != 0 else ''} desu"
+        return f"gogo {hour_japanese}{' ' + minute_japanese} desu"
 
 
 for hour in range(0, 24):
