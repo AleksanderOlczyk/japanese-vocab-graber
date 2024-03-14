@@ -1,6 +1,6 @@
 # Japanese Hours Generator
 
-This Python script generates Japanese hours and saves them to a text file. Each line in the output file contains a time in the format `xx:xx` followed by its Japanese counterpart.
+This Python script generates Japanese hours and saves them to a text file. Each line in the output file contains a time in the format `hh:mm` followed by its Japanese counterpart.
 
 ## Usage
 
