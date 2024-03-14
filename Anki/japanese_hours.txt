@@ -1,11 +1,11 @@
 #separator:tab
 #html:true
 #tags column:3
-00:00	gogo juuniji desu
-00:15	gogo juuniji jyuugofunfun desu
-00:20	gogo juuniji nijuppunfun desu
-00:30	gogo juuniji hanfun desu
-00:45	gogo juuniji yonjyuufunfun desu
+00:00	gozen juuniji desu
+00:15	gozen juuniji jyuugofunfun desu
+00:20	gozen juuniji nijuppunfun desu
+00:30	gozen juuniji hanfun desu
+00:45	gozen juuniji yonjyuufunfun desu
 01:00	gozen ichiji desu
 01:15	gozen ichiji jyuugofunfun desu
 01:20	gozen ichiji nijuppunfun desu
@@ -61,11 +61,11 @@
 11:20	gozen juuichiji nijuppunfun desu
 11:30	gozen juuichiji hanfun desu
 11:45	gozen juuichiji yonjyuufunfun desu
-12:00	gogo juuniji desu
-12:15	gogo juuniji jyuugofunfun desu
-12:20	gogo juuniji nijuppunfun desu
-12:30	gogo juuniji hanfun desu
-12:45	gogo juuniji yonjyuufunfun desu
+12:00	gozen juuniji desu
+12:15	gozen juuniji jyuugofunfun desu
+12:20	gozen juuniji nijuppunfun desu
+12:30	gozen juuniji hanfun desu
+12:45	gozen juuniji yonjyuufunfun desu
 13:00	gozen ichiji desu
 13:15	gozen ichiji jyuugofunfun desu
 13:20	gozen ichiji nijuppunfun desu
