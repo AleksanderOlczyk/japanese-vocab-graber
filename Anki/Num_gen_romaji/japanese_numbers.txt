@@ -1,0 +1,178 @@
+#separator:tab
+#html:true
+#tags column:3
+1	ichi
+2	ni
+3	san
+4	yon
+5	go
+6	roku
+7	nana
+8	hachi
+9	kyuu
+10	juu
+11	juuichi
+12	juuni
+13	juusan
+14	juuyon
+15	juugo
+16	juuroku
+17	juunana
+18	juuhachi
+19	juukyuu
+20	nijuu
+21	nijuu ichi
+22	nijuu ni
+23	nijuu san
+24	nijuu yon
+25	nijuu go
+26	nijuu roku
+27	nijuu nana
+28	nijuu hachi
+29	nijuu kyuu
+30	sanjuu
+31	sanjuu ichi
+32	sanjuu ni
+33	sanjuu san
+34	sanjuu yon
+35	sanjuu go
+36	sanjuu roku
+37	sanjuu nana
+38	sanjuu hachi
+39	sanjuu kyuu
+40	yonjuu
+41	yonjuu ichi
+42	yonjuu ni
+43	yonjuu san
+44	yonjuu yon
+45	yonjuu go
+46	yonjuu roku
+47	yonjuu nana
+48	yonjuu hachi
+49	yonjuu kyuu
+50	gojuu
+51	gojuu ichi
+52	gojuu ni
+53	gojuu san
+54	gojuu yon
+55	gojuu go
+56	gojuu roku
+57	gojuu nana
+58	gojuu hachi
+59	gojuu kyuu
+60	rokujuu
+61	rokujuu ichi
+62	rokujuu ni
+63	rokujuu san
+64	rokujuu yon
+65	rokujuu go
+66	rokujuu roku
+67	rokujuu nana
+68	rokujuu hachi
+69	rokujuu kyuu
+70	nanajuu
+71	nanajuu ichi
+72	nanajuu ni
+73	nanajuu san
+74	nanajuu yon
+75	nanajuu go
+76	nanajuu roku
+77	nanajuu nana
+78	nanajuu hachi
+79	nanajuu kyuu
+80	hachijuu
+81	hachijuu ichi
+82	hachijuu ni
+83	hachijuu san
+84	hachijuu yon
+85	hachijuu go
+86	hachijuu roku
+87	hachijuu nana
+88	hachijuu hachi
+89	hachijuu kyuu
+90	kyuujuu
+91	kyuujuu ichi
+92	kyuujuu ni
+93	kyuujuu san
+94	kyuujuu yon
+95	kyuujuu go
+96	kyuujuu roku
+97	kyuujuu nana
+98	kyuujuu hachi
+99	kyuujuu kyuu
+100	ichi hyaku
+112	ichi hyaku juuni
+124	ichi hyaku nijuu yon
+136	ichi hyaku sanjuu roku
+148	ichi hyaku yonjuu hachi
+160	ichi hyaku rokujuu
+172	ichi hyaku nanajuu ni
+184	ichi hyaku hachijuu yon
+196	ichi hyaku kyuujuu roku
+208	ni hyaku hachi
+220	ni hyaku nijuu
+232	ni hyaku sanjuu ni
+244	ni hyaku yonjuu yon
+256	ni hyaku gojuu roku
+268	ni hyaku rokujuu hachi
+280	ni hyaku hachijuu
+292	ni hyaku kyuujuu ni
+304	san hyaku yon
+316	san hyaku juuroku
+328	san hyaku nijuu hachi
+340	san hyaku yonjuu
+352	san hyaku gojuu ni
+364	san hyaku rokujuu yon
+376	san hyaku nanajuu roku
+388	san hyaku hachijuu hachi
+400	yon hyaku
+412	yon hyaku juuni
+424	yon hyaku nijuu yon
+436	yon hyaku sanjuu roku
+448	yon hyaku yonjuu hachi
+460	yon hyaku rokujuu
+472	yon hyaku nanajuu ni
+484	yon hyaku hachijuu yon
+496	yon hyaku kyuujuu roku
+508	go hyaku hachi
+520	go hyaku nijuu
+532	go hyaku sanjuu ni
+544	go hyaku yonjuu yon
+556	go hyaku gojuu roku
+568	go hyaku rokujuu hachi
+580	go hyaku hachijuu
+592	go hyaku kyuujuu ni
+604	roku hyaku yon
+616	roku hyaku juuroku
+628	roku hyaku nijuu hachi
+640	roku hyaku yonjuu
+652	roku hyaku gojuu ni
+664	roku hyaku rokujuu yon
+676	roku hyaku nanajuu roku
+688	roku hyaku hachijuu hachi
+700	nana hyaku
+712	nana hyaku juuni
+724	nana hyaku nijuu yon
+736	nana hyaku sanjuu roku
+748	nana hyaku yonjuu hachi
+760	nana hyaku rokujuu
+772	nana hyaku nanajuu ni
+784	nana hyaku hachijuu yon
+796	nana hyaku kyuujuu roku
+808	hachi hyaku hachi
+820	hachi hyaku nijuu
+832	hachi hyaku sanjuu ni
+844	hachi hyaku yonjuu yon
+856	hachi hyaku gojuu roku
+868	hachi hyaku rokujuu hachi
+880	hachi hyaku hachijuu
+892	hachi hyaku kyuujuu ni
+904	kyuu hyaku yon
+916	kyuu hyaku juuroku
+928	kyuu hyaku nijuu hachi
+940	kyuu hyaku yonjuu
+952	kyuu hyaku gojuu ni
+964	kyuu hyaku rokujuu yon
+976 kyuu hyaku nanajuu roku
+988 kyuu hyaku hachijuu hachi
+1000    sen
