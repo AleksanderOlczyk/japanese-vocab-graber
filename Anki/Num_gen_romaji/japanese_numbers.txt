@@ -1,6 +1,6 @@
 #separator:tab
 #html:true
-#tags column:3
+#tags column:1
 1	ichi
 2	ni
 3	san
@@ -173,6 +173,6 @@
 940	kyuu hyaku yonjuu
 952	kyuu hyaku gojuu ni
 964	kyuu hyaku rokujuu yon
-976 kyuu hyaku nanajuu roku
-988 kyuu hyaku hachijuu hachi
-1000    sen
+976	kyuu hyaku nanajuu roku
+988	kyuu hyaku hachijuu hachi
+1000	sen

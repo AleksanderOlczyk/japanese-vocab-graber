@@ -46,7 +46,7 @@ for number, japanese_translation in numbers_100_to_1000:
 with open("japanese_numbers.txt", "w") as file:
     file.write("#separator:tab\n")
     file.write("#html:true\n")
-    file.write("#tags column:3\n")
+    file.write("#tags column:1\n")
     for number, japanese_translation in numbers_1_to_100:
         file.write(f"{number}\t{japanese_translation}\n")
     for number, japanese_translation in numbers_100_to_1000:
