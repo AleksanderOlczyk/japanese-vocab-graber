@@ -4,8 +4,8 @@ This Python script generates Japanese hours and saves them to a text file. Each 
 
 ## Usage
 
-1. Clone this repository or download the `hours.py` file.
-2. Run the `hours.py` script using Python.
+1. Clone this repository or download the `hours - romaji.py` file.
+2. Run the `hours - romaji.py` script using Python.
 3. The generated Japanese hours will be saved to a file named `japanese_hours.txt`.
 
 ## Format
