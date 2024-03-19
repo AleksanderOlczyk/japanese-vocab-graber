@@ -1,0 +1,66 @@
+Teraz	ima
+Język angielski	eigo
+Tak (potocznie)	ee
+Uczeń, student	gakusei
+Język JAKIŚ, np. język japoński	~go
+Liceum	koukou
+Po południu, P.M.	gogo
+Przed południem, A.M.	gozen
+"ILEŚ lat, ""podajemy wiek"""	~sai
+KTÓRAŚ godzina	~ji
+ILEŚ osób	~jin
+Specjalizacja	senkou
+Nauczyciel	sensei
+Zgadza się!	soudesu
+Ach tak. Aha.	soudesuka
+Uniwersytet	daigaku
+Telefon	dennwa
+Przyjaciel	tomodachi
+Imię	namae
+Co?	nan/nani
+Japonia	nihon
+Student KTÓREGO roku	~nensei
+Tak (grzecznie)	hai
+Wpółdo. Dosł. Wpół po	han
+Numer	bangou
+Uczeń z wymiany	ryuugakusei
+Ja	watashi
+Ameryka	amerika
+Wielka Brytania	igirisu
+Australia	oosutoraria
+Koreał Południowa	kankoku
+Szwecja	suueeden
+Chiny	chuugoku
+Polska	poorando
+Niemcy	doitsu
+Francja	furansu
+Rosja	roshia
+Czechy	cheko
+Hiszpania	supein
+Ukraina	ukuraina
+Białoruś	beraruushi
+nauka	gagaku
+chemia	kagaku
+Orientalistyka. Badanie azji	ajiakenkyuu
+Ekonomia	keizai
+Stosunki między narodowe	kokusaikannkei
+IT / Komputer	kompyuutaa
+Antropologia	jinruigaku
+Polityka	seiji
+Biznes	bijinesu
+Literatura	bungaku
+Historia	rekishi
+Praca	shigoto
+Lekarz	isha
+Pracownik korporacji	kaishain
+Licealista	koukousei
+Kobieta zajmujaca się domem	shufu
+Student ostatniego roku	daigakuinsei
+Student	daigakusei
+Prawnik	bengoshi
+Matka	okaasan
+Ojciec	otousan
+Starsza siostra	oneesan
+Starszy brat	oniisan
+Młdosza siostra	imouto
+Młodszy brat	otouto
