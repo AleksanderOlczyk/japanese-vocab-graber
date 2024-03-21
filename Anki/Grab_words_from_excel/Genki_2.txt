@@ -1,0 +1,64 @@
+to (w moim zasięgu) kore
+to (w twoim zasięgu)	sore
+Tamto (poza naszym zasięgiem)	are
+które?	dore
+ten (w moim zasięgu)	kono
+tamten (w twoim zasięgu)	sono
+tamten (poza naszym zasięgiem)	ano
+który?	dono
+tutaj	koko
+tam	soko
+tam, daleko	asoko
+gdzie?	doko
+kto?	dare
+pyszne, smaczne	oishii
+ryba	sakana
+kotle w panierce	tonkatsu
+mięso	niku
+Menu	menyū
+warzywa	yasai
+ołówek	empitsu
+parasol	kasa
+torba/neseser	kaban
+buty	kutsu
+portfel	saifu
+dżinsy	jiinzu
+słownik	jisho
+rower	jitensha
+gazeta	shinbun
+Tiszert	tiishatsu
+zegarek	tokei
+zeszyt	nōto
+długopis	pen
+kapelusz, czapka	bōshi
+książka	hon
+kawiarnia	kissaten／kafē
+bank	ginkō
+toaleta	toire
+biblioteka	toshokan
+poczta	yūbinkyoku
+Polska	poorando
+Niemcy	doitsu
+Rosja	roshia
+Czechy	cheko
+Francja	furansu
+Anglia	igirisu
+Ameryka	amerika
+Korea	kankoku
+Chiny	chuugoku
+ekonomia	keizai
+informatyka	konpyūtā
+biznes	bijinesu
+historia	rekishi
+lingwistyka	gengogaku
+Matka	okāsan
+Ojciec	otōsan
+ile kosztuje?	ikura
+japońskie jeny	～en
+drogi	takai
+zapraszamy do sklepu!	irasshaimase
+bardzo proszę o…	onegaishimasu
+proszę	kudasai
+więc…	jā
+proszę (dając coś)	dōzo
+dziękuję (otrzymując coś)	dōmo
