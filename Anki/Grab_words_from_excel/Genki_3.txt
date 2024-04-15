@@ -1,0 +1,65 @@
+film    えいが
+kino	えいがかん
+muzyka	おんがく
+czasopismo kolrowe	ざっし
+sport	スポーツ
+randka	デート
+tenis	テニス
+piłka nożna	サッカー
+siatkówka	バレーボール
+koszykówka	バスケットボール
+baseball	やきゅう
+telewizor / telewizja	テレビ
+lody	アイスクリーム
+śniadanie	あさごはん
+sake; alkochol	おさけ
+zielona herbata	おちゃ
+czarna herbata	こうちゃ
+kawa	コーヒー
+obiad (obiado kolacja)	ばんごはん
+hamburger	ハンバーガー
+lunch (posiłek spożywany koło 12:30)	ひるごはん
+woda	みず
+dom	いえ
+mój dom	うち
+szkoła	がっこう
+rano	あさ
+jutro	あした
+kiedy	いつ
+dziś	きょう
+około (używanne do czasu)	～ごろ
+dziś wieczór	こんばん
+weekend	しゅうまつ
+sobota	どようび
+niedziela	にちようび
+poniedziałek	げつようび
+wtorek	かようび
+środa	すいようび
+czwartek	もくようび
+piątek	きんようび
+codziennie / każdego dnia	まいにち
+cowieczór / każdego wieczora	まいばん
+iść	いく
+wracać	かえる
+słuchać, słyszeć	きく
+pić	のむ
+mówić, rozmawiać, mówić w języku	はなす
+czytać	よむ
+wstawać, wstawać z łóżka	おきる
+jeść	たべる
+spać, iść sapać	ねる
+Patrzeć, widzieć, oglądać	みる
+przyjść	くる
+robić	する
+uczyć się	べんきょうする
+dobry	いい
+wcześnie	はやい
+nie bardzo	あまり＋neg
+w ogóle / zupełnie nie	ぜんぜん＋neg
+zwykle	たいてい
+trochę, troszkę	ちょっと
+czasami, od czasu do czasu	ときどき
+często	よく
+ach, tak. Aha.	そうですね
+ale	でも
+co powiesz na… a może…	どうですか

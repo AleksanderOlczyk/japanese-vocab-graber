@@ -17,11 +17,11 @@ def wczytaj_komorki_z_excel(plik, arkusz, poczatkowy_wiersz, pierwsza_komorka, d
 
 
 plik_excel = 'Słówka　Genki.xlsx'
-nazwa_arkusza = '２課'
+nazwa_arkusza = '3課'
 poczatkowy_wiersz = 3
-pierwsza_komorka = 'to (w moim zasięgu)'
-druga_komorka = 'kore'
-page = 2
+pierwsza_komorka = 'film'
+druga_komorka = 'えいが'
+page = 3
 
 komorki_B_C = wczytaj_komorki_z_excel(plik_excel, nazwa_arkusza, poczatkowy_wiersz, pierwsza_komorka, druga_komorka)
 
