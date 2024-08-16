@@ -1,0 +1,45 @@
+#separator:tab
+#html:true
+#tags column:3
+pieniądze	おかね<br>お金
+wanna/kąpiel	おふろ<br>お風呂
+znaki sino-japońskie	漢字<br>かんじ
+podręcznik	きょうかしょ<br>教科書
+ten tydzień	こんしゅう<br>今週
+przychodnia miejska	しみんびょういん<br>市民病院
+następny	つぎ<br>次
+Elektryczność/światło	でんき<br>電気
+bagaż	にもつ<br>荷物
+okno	まど<br>窓
+noc/późny wieczór	よる<br>夜
+przyszły tydzień	らいしゅう<br>来週
+przyszły rok	らいねん<br>来年
+ciężka (sytuacja)	たいへん（な）<br>大変（な）
+bawić się	あそぶ<br>遊ぶ
+Spieszyć się	いそぐ<br>急ぐ
+Brać kąpiel	おふろにはいる<br>お風呂に入る
+oddać (coś),	かえす<br>返す
+wyłączyć, zetrzeć (tablice)	けす<br>消す
+umierać	しぬ<br>死ぬ
+siedzieć	すわる<br>すわる
+stać	たつ<br>立つ
+palić papierosy	たばこをすう<br>たばこを吸う
+używać	つかう<br>使う
+pomagać	てつだう<br>手伝う
+wchodzić	はいる<br>入る
+nieśc/trzymać	もつ<br>持つ
+1)być nieobecnym/2)odpoczywać	やすむ<br>休む
+otwierać (coś)	あける<br>開ける
+uczyć/wyjaśniać	おしえる<br>教える
+wysiadać	おりる<br>降りる
+pożyczać od kogoś	かりる<br>借りる
+zamykać coś	しめる<br>閉める
+brać prysznic	シャワーをあびる<br>シャワーを浴びる
+dzwonić/telefonować	でんわをかける<br>電話をかける
+zapominać	わすれる<br>忘れる
+przyprowadzić	つれてくる<br>連れてくる
+przynieść	もってくる<br>持ってくる
+później, po czymś	あとで<br>後で
+(robić coś) późno	おそく<br>遅く
+nie trzeba/wystarczy	けっこうです<br>結構です
+naprawdę?	ほんとうですか<br>本当ですか

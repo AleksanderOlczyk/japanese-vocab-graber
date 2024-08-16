@@ -1,0 +1,40 @@
+#separator:tab
+#html:true
+#tags column:3
+pojutrze	あさって
+deszcz	あめ<br>雨
+pracowenik korporacji	かいしゃいん<br>会社員
+powietrze	くうき<br>空気
+dziś rano	けさ<br>今朝
+czarna tablica kredowa	こくばん<br>黒板
+ten miesiąc, oceny miesiąc	こんげつ<br>今月
+praca, zawód	しごと<br>仕事
+student	だいがくせい<br>大学生
+prognoza pogody	てんきよほう<br>天気予報
+miejsce	ところ<br>所
+lato	なつ<br>夏
+coś	なにか<br>何か
+zima	ふゆ<br>冬
+każdego tygodnia	まいしゅう<br>毎週
+przyszły miesiąc	らいげつ<br>来月
+dobry, wprawny w czymś	じょうず（な）<br>上手（な）
+nie dobry, nie wprawny w czymś	へた（な）<br>下手（な）
+sławny	ゆうめい（な）<br>有名（な）
+pada deszcz	あめがふる<br>雨が降る
+myć	あらう<br>洗う
+mówić, wykonywać czynność mówienia	いう<br>言う
+być spóźnionym	おそくなる<br>遅くなる
+myśleć	おもう<br>思う
+ciąć	きる<br>切る
+robić coś z czegoś	つくる<br>作る
+zanieść coś	もっていく<br>持っていく
+gapić się (na…)	じろじろみる<br>じろじろ見る
+wyrzucać coś	すてる<br>捨てる
+zaczynać	はじめる<br>始める
+kierować pojazdem	うんてんする<br>運転する
+robić pranie	せんたくする<br>選択する
+sprzątać	そうじする<br>掃除する
+telefonować	でんわする<br>電話する
+gotować	りょうりする<br>料理する
+na zrowie (wznosząc toast)	かんぱい<br>乾杯
+to szkoda, to zstraszne	ざんねん（ですね）<br>残念（ですね）

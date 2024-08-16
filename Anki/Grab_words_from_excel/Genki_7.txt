@@ -1,0 +1,46 @@
+#separator:tab
+#html:true
+#tags column:3
+(moja) starsza siostra	あね<br>姉
+młodsza siostra	いもうと<br>妹
+piosenka	うた<br>歌
+młodszy brat	おとうと<br>弟
+mężczyzna	おとこのひと<br>男の人
+(czyjś) starszy brat	おにいさん<br>お兄さん
+(czyjaś) starsza siostra	おねえさん<br>お姉さん
+kobieta	おんなのひと<br>女の人
+firma	かいしゃ<br>会社
+rodzina	かぞく<br>家族
+włosy	かみ<br>髪
+rodzeństwo	きょうだい<br>兄弟
+usta	くち<br>口
+kraj	くに<br>国
+samochód	くるま<br>車
+stołówka	しょくどう<br>食堂
+(mój) tata	ちち<br>父
+DVD	DVD<br>ディーヴイディー
+(moja) mama	はは<br>母
+oczy	め<br>目
+okulary	めがね<br>眼鏡
+mądry	あたまがいい<br>頭がいい
+wysoki	せがたかい<br>背が高い
+niski	せがひくい<br>背が低い
+długi	ながい<br>長い
+szybki	はやい<br>速い
+krótki	みじかい<br>短い
+uprzejmy / miły	しんせつな<br>親切な
+przydatny, wygodny w użyciu	べんりな<br>便利な
+śpiewać	うたう<br>歌う
+zapoznawać się / wchodzić w posiadanie wiedzy	しる<br>知る
+wiedzieć / znać (kogoś)	しっています<br>知っています
+nie wiedzieć / nie znać (kogoś)	しりません<br>知りません
+mieszkać / żyć gdzieś	すむ<br>住む
+przybierać na wadze	ふとる<br>太る
+być grubym	ふとっています<br>太っています
+zakładać okulary	めがねをかける<br>眼鏡をかける
+nosić (branie na tułowiu)	きる<br>着る
+być zatrudnionym	つとめる<br>勤める
+brać ślub	けっこんする<br>結婚する
+klasyfikator liczebniczy dla ludzi	～にん<br>～人
+nic specjalnego	べつに+negacja<br>別に+negacja
+oczywiście	もちろん<br>勿論

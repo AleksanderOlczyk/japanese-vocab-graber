@@ -1,65 +1,46 @@
-film    えいが
-kino	えいがかん
-muzyka	おんがく
-czasopismo kolrowe	ざっし
-sport	スポーツ
-randka	デート
-tenis	テニス
-piłka nożna	サッカー
-siatkówka	バレーボール
-koszykówka	バスケットボール
-baseball	やきゅう
-telewizor / telewizja	テレビ
-lody	アイスクリーム
-śniadanie	あさごはん
-sake; alkochol	おさけ
-zielona herbata	おちゃ
-czarna herbata	こうちゃ
-kawa	コーヒー
-obiad (obiado kolacja)	ばんごはん
-hamburger	ハンバーガー
-lunch (posiłek spożywany koło 12:30)	ひるごはん
-woda	みず
-dom	いえ
-mój dom	うち
-szkoła	がっこう
-rano	あさ
-jutro	あした
-kiedy	いつ
-dziś	きょう
-około (używanne do czasu)	～ごろ
-dziś wieczór	こんばん
-weekend	しゅうまつ
-sobota	どようび
-niedziela	にちようび
-poniedziałek	げつようび
-wtorek	かようび
-środa	すいようび
-czwartek	もくようび
-piątek	きんようび
-codziennie / każdego dnia	まいにち
-cowieczór / każdego wieczora	まいばん
-iść	いく
-wracać	かえる
-słuchać, słyszeć	きく
-pić	のむ
-mówić, rozmawiać, mówić w języku	はなす
-czytać	よむ
-wstawać, wstawać z łóżka	おきる
-jeść	たべる
-spać, iść sapać	ねる
-Patrzeć, widzieć, oglądać	みる
-przyjść	くる
-robić	する
-uczyć się	べんきょうする
-dobry	いい
-wcześnie	はやい
-nie bardzo	あまり＋neg
-w ogóle / zupełnie nie	ぜんぜん＋neg
-zwykle	たいてい
-trochę, troszkę	ちょっと
-czasami, od czasu do czasu	ときどき
-często	よく
-ach, tak. Aha.	そうですね
-ale	でも
-co powiesz na… a może…	どうですか
+#separator:tab
+#html:true
+#tags column:3
+film	えいが<br>映画
+kino	えいがかん<br>映画館
+muzyka	おんがく<br>音楽
+czasopismo kolorowe	ざっし<br>雑誌
+baseball	やきゅう<br>野球
+śniadanie	あさごはん<br>朝ご飯
+sake; alkochol	おさけ<br>お酒
+zielona herbata	おちゃ<br>お茶
+czarna herbata	こうちゃ<br>紅茶
+obiad (obiado kolacja)	ばんごはん<br>晩ご飯
+lunch (posiłek spożywany koło 12:30)	ひるごはん<br>昼ご飯
+woda	みず<br>水
+dom	いえ<br>家
+szkoła	がっこう<br>学校
+rano	あさ<br>朝
+jutro	あした<br>明日
+dziś	きょう<br>今日
+dziś wieczór	こんばん<br>今晩
+weekend	しゅうまつ<br>週末
+sobota	どようび<br>土曜日
+niedziela	にちようび<br>日曜日
+poniedziałek	げつようび<br>月曜日
+wtorek	かようび<br>火曜日
+środa	すいようび<br>水曜日
+czwartek	もくようび<br>木曜日
+piątek	きんようび<br>金曜日
+codziennie / każdego dnia	まいにち<br>毎日
+cowieczór / każdego wieczora	まいばん<br>毎晩
+iść	いく<br>行く
+wracać	かえる<br>帰る
+słuchać, słyszeć	きく<br>きく
+pić	のむ<br>飲む
+mówić, rozmawiać, mówić w języku	はなす<br>話す
+czytać	よむ<br>読む
+wstawać, wstawać z łóżka	おきる<br>おきる
+jeść	たべる<br>食べる
+spać, iść sapać	ねる<br>寝る
+Patrzeć, widzieć, oglądać	みる<br>見る
+przyjść	くる<br>来る
+uczyć się	べんきょうする<br>勉強する
+wcześnie	はやい<br>早い
+w ogóle / zupełnie nie	ぜんぜん＋neg<br>全然
+czasami, od czasu do czasu	ときどき<br>時々

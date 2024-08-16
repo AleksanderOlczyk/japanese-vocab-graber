@@ -1,0 +1,43 @@
+#separator:tab
+#html:true
+#tags column:3
+morze	うみ<br>海
+znaczek pocztowy	きって<br>切手
+praca domowa	しゅくだい<br>宿題
+jedzenie	たべもの<br>食べ物
+urodziny	たんじょうび<br>誕生日
+pogoda	てんき<br>天気
+napoje	のみもの<br>飲み物
+samolot	ひこうき<br>飛行機
+pokój (w sensie pomieszczenie)	へや<br>部屋
+ja (używane przez mężczyzn)	ぼく<br>僕
+wakacje/wolne/nieobecność	やすみ<br>休み
+podróż	りょこう<br>旅行
+nowy	あたらしい<br>新しい
+goracy (pogoda)	あつい<br>暑い
+gorący (rzeczy)	あつい<br>熱い
+azajęty / zapracowany	いそがしい<br>忙しい
+duży	おおきい<br>大きい
+ciekawy	おもしろい<br>面白い
+straszny	こわい<br>怖い
+zimny  (pogoda)	さむい<br>寒い
+fajny, przysparzający radości	たのしい<br>楽しい
+mały	ちいさい<br>小さい
+stary (do rzeczy)	ふるい<br>古い
+trudny	むずかしい<br>難しい
+tani	やすい<br>安い
+nieznosić, niecierpieć, nienawidzić	きらい（な）<br>嫌い
+piękny / czysty	きれい（な）<br>綺麗
+zdrowy, pełen energii	げんき（な）<br>元気
+cichy	しずか（な）<br>静か
+lubić / kochać	すき（な）<br>好き
+z całego serca neinawidzić	だいきらい（な）<br>大嫌い
+uwielbiać	だいすき（な）<br>大好き
+wolny (nie zajęty)	ひま（な）<br>暇
+pływać	およぐ<br>泳ぐ
+pytać	きく<br>聞く
+jechać czymś / wsiadać do pojazu	のる<br>乗る
+wychodzić na zwenątrz	でかける<br>出かける
+razem	いっしょに<br>一緒に
+Jest OK / nie ma się czym martwić	だいじょうぶ<br>大丈夫
+klasyfikator dla rzeczy płaskich	～まい<br>～枚

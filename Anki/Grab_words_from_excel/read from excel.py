@@ -1,34 +1,44 @@
 import pandas as pd
-pd.set_option('display.max_rows', None)
 
 
-def wczytaj_komorki_z_excel(plik, arkusz, poczatkowy_wiersz, pierwsza_komorka, druga_komorka):
+def read_cells_from_excel(file, sheet, start_row, column_list):
+    df = None
     try:
-        df = pd.read_excel(plik, sheet_name=arkusz, skiprows=poczatkowy_wiersz - 1)
-        komorki_B_C = df[[pierwsza_komorka, druga_komorka]]
-        komorki_B_C = komorki_B_C.dropna()
-        komorki_B_C[druga_komorka] = komorki_B_C[druga_komorka].str.strip()
-        komorki_B_C[pierwsza_komorka] = komorki_B_C[pierwsza_komorka].str.strip()
-        return komorki_B_C
+        df = pd.read_excel(file, sheet_name=sheet, skiprows=start_row - 1)
+        selected_columns = df[column_list]
+        selected_columns = selected_columns.dropna()
+        for column in column_list:
+            selected_columns[column] = selected_columns[column].str.strip()
+        return selected_columns
     except Exception as e:
-        print("Wystąpił błąd podczas wczytywania danych z pliku Excel:", e)
-        print("Dostępne kolumny w arkuszu:", df.columns)
+        print("An error occurred while reading data from the Excel file:", e)
+        if df is not None:
+            print("Available columns in the sheet:", df.columns)
         return None
 
 
-plik_excel = 'Słówka　Genki.xlsx'
-nazwa_arkusza = '3課'
-poczatkowy_wiersz = 3
-pierwsza_komorka = 'film'
-druga_komorka = 'えいが'
-page = 3
+excel_file = 'Słówka　Genki.xlsx'
+sheet_name = '8課'
+start_row = 3
+page = 8
 
-komorki_B_C = wczytaj_komorki_z_excel(plik_excel, nazwa_arkusza, poczatkowy_wiersz, pierwsza_komorka, druga_komorka)
+column_list = ['pojutrze', 'あさって', 'Unnamed: 1']
+cells = read_cells_from_excel(excel_file, sheet_name, start_row, column_list)
 
-if komorki_B_C is not None:
-    print("Wczytane komórki z kolumn B i C:")
-    print(komorki_B_C.to_string(index=False, justify='left'))
-    nazwa_pliku_txt = f'Genki_{page}.txt'
-    komorki_B_C.to_csv(nazwa_pliku_txt, index=False, header=None, sep='\t', encoding='utf-8')
+if cells is not None:
+    print("Loaded cells from selected columns:")
+    print(cells.to_string(index=False, justify='left'))
+    output_file_name = f'Genki_{page}.txt'
 
-    print("Dane zostały zapisane do pliku:", nazwa_pliku_txt)
+    count = 0
+    with open(output_file_name, 'w', encoding='utf-8') as f:
+        f.write('#separator:tab\n')
+        f.write('#html:true\n')
+        f.write('#tags column:3\n')
+        f.write(column_list[0] + '\t' + '<br>'.join(column_list[1:]) + '\n')
+        for _, row in cells.iterrows():
+            f.write(row.iloc[0] + '\t' + '<br>'.join(row.iloc[1:]) + '\n')
+            count += 1
+
+    print("Data has been saved to the file:", output_file_name)
+    print("Total number of words:", count)

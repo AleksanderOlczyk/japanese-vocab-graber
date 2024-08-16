@@ -1,0 +1,44 @@
+#separator:tab
+#html:true
+#tags column:3
+praca dorywcza	アルバイト
+zakupy	かいもの<br>買い物
+pies	いぬ<br>犬
+pamiątka z podróży	おみやげ<br>お土産
+dziecko	こども<br>子供
+ugotowany ryż / posiłek	ごはん<br>ご飯
+zdjęcie	しゃしん<br>写真
+biurko	つくえ<br>机
+list	てがみ<br>手紙
+człowiek	ひと<br>人
+świątynia buddyjska	おてら<br>おてら
+park	こうえん<br>公園
+przystanek autobusowy	バスてい<br>バス停
+szpital / przychodnia	びょういん<br>病院
+miasto	まち<br>町
+wczoraj	きのう<br>昨日
+~godzin (np.. Trzy godziny)	～じかん<br>～時間
+jedna godzina	いちじかん<br>一時間
+zeszły tydzień	せんしゅう<br>先週
+w czasach	～のとき<br>～の時
+poniedziałek	げつようび<br>月曜日
+wtorek	かようび<br>火曜日
+środa	すいようび<br>水曜日
+czwartek	もくようび<br>木曜日
+piątek	きにょうび<br>金曜日
+spotykać / spotykać się z	あう<br>会う
+kupować	かう<br>買う
+pisać	かく<br>書く
+robić zdjęcie	とる<br>撮る
+czekać	まつ<br>待つ
+samemu / w pojedynkę	ひとりで<br>一人で
+prawo	みぎ<br>右
+lewo	ひだり<br>左
+przed	まえ<br>前
+za	うしろ<br>後ろ
+w / w środku	なか<br>中
+na / nad	うえ<br>上
+pod	した<br>下
+blisko	ちかく<br>近く
+obok	となり<br>隣
+pomiędzy	あいだ<br>間
